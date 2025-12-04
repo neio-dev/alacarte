@@ -1,7 +1,7 @@
 ﻿# Àlacarte : A ReactJS restaurant review App
 
 ![presentation banner](./readme-banner.png)
-Àlacarte is a ReactJS based app where you can browse a map and search for restaurants either at your location or manually.
+Àlacarte is a ReactJS based app where you can browse a map and search for restaurants either at your location or manually
 
 [Online version](https://alacarte.danly.co/)
 
